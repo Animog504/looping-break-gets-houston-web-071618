@@ -7,7 +7,7 @@ def levitation_quiz
 	if answer == "Wingardium Leviosa"
 	  break
 	end
-	
+	end
 end
 
 
